@@ -11,7 +11,7 @@ If you want to run this locally:
 
 ## Live Demo
 
-[Try it here](https://felle-dev.github.io/your-repo)
+[Try it here](https://felle-dev.github.io/ocr-tool)
 
 ## License
 
